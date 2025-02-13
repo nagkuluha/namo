@@ -1,0 +1,4 @@
+git clone https://github.com/your_username/api_integration_app.git
+cd api_integration_app
+pip install -r requirements.txt
+python app.py
